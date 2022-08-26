@@ -5,3 +5,6 @@ compile typescript:
 tsc index.ts
 
 tsc index.ts --watch --> node program.js
+
+*TSconfig
+tsc --init
