@@ -1,3 +1,5 @@
+//public, private, protected, read only
+
 class User {
     // properties, method, contractor
     public userName: string;
