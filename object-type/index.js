@@ -11,4 +11,7 @@ user5 = { userName: "Islam" };
 var users;
 users = [];
 users.push(user1, user2, user3, user4, user5);
-console.log(users);
+// console.log(users)
+for (var key in users) {
+    console.log(users[key]["userName"]);
+}
