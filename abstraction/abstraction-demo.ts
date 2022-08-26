@@ -28,12 +28,6 @@ class Student extends User {
 let student1 = new Student("rahim", 31, 101);
 student1.display();
 
-// //object
-// let user1 = new User("karim", 21)
-// user1.display();
-
-// let user2 = new User("karim", 21)
-// user1.display();
 
 export { };
 
